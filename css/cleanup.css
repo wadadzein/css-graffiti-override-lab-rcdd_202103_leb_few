@@ -1,20 +1,23 @@
 #wall .tag-1 {
   display: none;
-  
 }
-#wall #tag-2 {
-  display: none;
 
-}
-#wall #tag-3 {
+div#wall #tag-2 {
   display: none;
 }
-#wall #tag-4 {
+
+body div#wall #tag-3.slick{
   display: none;
 }
-#wall #tag-5 {
+
+div#wall #tag-4 {
   display: none;
 }
-#wall #tag-6 {
+
+body div#wall .parent #tag-5.slick {
+  display: none;
+}
+
+body div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
