@@ -1,20 +1,20 @@
 #wall .tag-1 {
   display: none;
-  width:430px;
+  
 }
 #wall #tag-2 {
-  display: block;
-  height:200px;
+  display: none;
+
 }
 #wall #tag-3 {
-  display: block;
+  display: none;
 }
 #wall #tag-4 {
-  display: block;
+  display: none;
 }
 #wall #tag-5 {
-  display: block;
+  display: none;
 }
 #wall #tag-6 {
-  display: block;
+  display: none;
 }
